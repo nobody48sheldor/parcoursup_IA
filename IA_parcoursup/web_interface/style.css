@@ -19,6 +19,7 @@ div.title p.title{
 	font-size: 80px;
 	display: inline-block;
 	text-shadow: 4px 6px 8px #000000;
+	text-shadow: 0px 0px 5px #ffffff;
 }
 
 div.title p.title:hover{
@@ -26,6 +27,7 @@ div.title p.title:hover{
 	font-size: 80px;
 	display: inline-block;
 	text-shadow: 0px 0px 5px #ffffff;
+	text-shadow: 0px 0px 20px #B60000;
 }
 
 div.content{
